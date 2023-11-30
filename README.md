@@ -48,7 +48,7 @@ You can run face recognition via the file: `Face Recognition/face_recognition.ip
 ## Running Guiding Gaze
 After the setup is complete, you can run Guiding Gaze by executing the following command in your Jupyter Notebook(recommended).
 ```
-!python "YOUR_PATH\yolov7\guiding_gaze.py" --source 0 --conf 0.5 --device cpu --weights "YOUR_PATH\yolov7\yolov7.pt" --name view
+!python "YOUR_PATH\guiding-gaze\yolov7\guiding_gaze.py" --source 0 --conf 0.5 --device cpu --weights "YOUR_PATH\guiding-gaze\yolov7\yolov7.pt" --name view
 ```
 
 
