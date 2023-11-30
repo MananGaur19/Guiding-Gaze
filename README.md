@@ -1,8 +1,7 @@
 # Guiding-Gaze
 
 ## Concept
-Aiming to empower visually impaired individuals, we propose a real-time navigation system for the visually impaired via a mobile application
-and wireless communication between electronic components.
+Aiming to empower visually impaired individuals, we propose a real-time navigation system via a mobile application and wired communication between electronic components.
 
 ## Setup
 - Install the [DroidCam App](https://play.google.com/store/apps/details?id=com.dev47apps.droidcam&pcampaignid=web_share) app on your android.
