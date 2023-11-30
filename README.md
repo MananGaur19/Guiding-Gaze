@@ -33,15 +33,14 @@ pip install -r requirements.txt
 ### Depth Estimation
 - We use MiDAS to calculate object distance from the user.
 - Run the `MIDAS/MIDAS.ipynb` file to run this on your machine.
-<img width="175" alt="image" src="https://github.com/MananGaur19/Guiding-Gaze/assets/56295289/a330d2cb-de73-4ccd-aea1-8b6926451a0e">
-
+![image](https://github.com/MananGaur19/Guiding-Gaze/assets/56295289/2b5da6d2-0da0-49d4-882c-184f93168118)
 
 ### Scene Recognition
 Run the `Scene Recognition/scene_recognition.ipynb` on your PC for scene recognition.
 
 ### Obstruction Detection
 Run the `Obstruction/wall_obstruction.ipynb` on your PC for detecting obstructions.
-![image](https://github.com/MananGaur19/Guiding-Gaze/assets/56295289/1153f784-2a00-4081-bc03-7de1a791d023)
+![image](https://github.com/MananGaur19/Guiding-Gaze/assets/56295289/f6762794-1b98-4e9f-84a7-de74a7514b83)
 
 ### Face Recognition
 You can run face recognition via the file: `Face Recognition/face_recognition.ipynb`
