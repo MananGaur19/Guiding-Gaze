@@ -11,9 +11,9 @@ and wireless communication between electronic components.
 - There is an option for WiFi connection as well, but due to high computational requirements of the model, we have used a data cable to reduce lag.
 - Install this repo on your PC using the following commands:
 
-  ```
+```
   git clone https://github.com/MananGaur19/Guiding-Gaze.git
-  ```pip install 
+```
 - Go inside the repo and install the dependencies
 
 ```
