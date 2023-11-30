@@ -13,23 +13,26 @@ and wireless communication between electronic components.
 
   ```
   git clone https://github.com/MananGaur19/Guiding-Gaze.git
-  ```
+  ```pip install 
+- Go inside the repo and install the dependencies
+
+```
+pip install -r requirements.txt
+```
   
-
-
 ![Architecture](https://github.com/MananGaur19/Guiding-Gaze/assets/56295289/0b1577e4-9132-46ad-acb2-4b1d376f26f7)
 
-## Table Of Contents
-- Guiding 
-- Obstacle Detection
-- Depth Estimation
-- Scene Recognition
-- Barrier Detection
-- Facial Recognition
-- Navigation
+## Modules
+### Object Detection
 
+### Depth Estimation
+- We use MiDAS to calculate object distance from the user.
+- Run the `MIDAS/MIDAS.ipynb` file to run this on your machine.
 
-## Git Cloning
+### Scene Recognition
+Run the `Scene Recognition/scene_recognition.ipynb` on your PC for scene recognition.
+
+### 
 
 
 
