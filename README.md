@@ -1,6 +1,6 @@
 # Guiding-Gaze
 
-## <img width="377" alt="image" src="https://github.com/MananGaur19/Guiding-Gaze/assets/56295289/93ed3d1a-bf1e-44de-b601-6301251400e0">
+  <img width="377" alt="image" src="https://github.com/MananGaur19/Guiding-Gaze/assets/56295289/93ed3d1a-bf1e-44de-b601-6301251400e0">
 
 
 
