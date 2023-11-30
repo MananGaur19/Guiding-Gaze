@@ -48,7 +48,7 @@ You can run face recognition via the file: `Face Recognition/face_recognition.ip
 ## Running Guiding Gaze
 To run Guiding Gaze
 ```
-!python "C:\Users\tejes\Downloads\github_upload_final\github_upload_final\yolov7\guiding_gaze.py" --source 0 --conf 0.5 --device cpu --weights "C:\Users\tejes\Downloads\github_upload_final\github_upload_final\yolov7\yolov7.pt" --name view
+!python "YOUR_PATH\yolov7\guiding_gaze.py" --source 0 --conf 0.5 --device cpu --weights "YOUR_PATH\yolov7\yolov7.pt" --name view
 ```
 
 
