@@ -9,8 +9,15 @@ and wireless communication between electronic components.
 - Install the [PC version](https://www.dev47apps.com/droidcam/windows/) of the app on your laptop. Similar versions are available for MacOS and linux.
 - Follow [this guide](https://www.dev47apps.com/droidcam/connect/) to get it running. Once working, you can use your phone as a webcam.
 - There is an option for WiFi connection as well, but due to high computational requirements of the model, we have used a data cable to reduce lag.
-- Install this repo on your PC using the following commands:
-
+- Create a virtual environment for guiding gaze:
+```
+pip install virtualenv
+```
+```
+virtualenv -p /usr/bin/python3 guiding-gaze
+source guiding-gaze/bin/activate
+```
+- Install Guiding Gaze on your PC:
 ```
   git clone https://github.com/MananGaur19/Guiding-Gaze.git
 ```
@@ -23,16 +30,34 @@ pip install -r requirements.txt
 ![Architecture](https://github.com/MananGaur19/Guiding-Gaze/assets/56295289/0b1577e4-9132-46ad-acb2-4b1d376f26f7)
 
 ## Modules
-### Object Detection
-
 ### Depth Estimation
 - We use MiDAS to calculate object distance from the user.
 - Run the `MIDAS/MIDAS.ipynb` file to run this on your machine.
+<img width="175" alt="image" src="https://github.com/MananGaur19/Guiding-Gaze/assets/56295289/a330d2cb-de73-4ccd-aea1-8b6926451a0e">
+
 
 ### Scene Recognition
 Run the `Scene Recognition/scene_recognition.ipynb` on your PC for scene recognition.
 
-### 
+### Obstruction Detection
+Run the `Obstruction/wall_obstruction.ipynb` on your PC for detecting obstructions.
+![image](https://github.com/MananGaur19/Guiding-Gaze/assets/56295289/1153f784-2a00-4081-bc03-7de1a791d023)
+
+### Face Recognition
+You can run face recognition via the file: `Face Recognition/face_recognition.ipynb`
+<img width="452" alt="image" src="https://github.com/MananGaur19/Guiding-Gaze/assets/56295289/cab94169-7921-4dde-8ef3-bca258b6b834">
+
+## Running Guiding Gaze
+
+
+
+
+
+
+
+
+
+
 
 
 
