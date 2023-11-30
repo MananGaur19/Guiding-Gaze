@@ -10,7 +10,10 @@ and wireless communication between electronic components.
 - Follow [this guide](https://www.dev47apps.com/droidcam/connect/) to get it running. Once working, you can use your phone as a webcam.
 - There is an option for WiFi connection as well, but due to high computational requirements of the model, we have used a data cable to reduce lag.
 - Install this repo on your PC using the following commands:
-  ```git clone https://github.com/MananGaur19/Guiding-Gaze.git```
+  ```
+  git clone https://github.com/MananGaur19/Guiding-Gaze.git
+  ```
+  
 
 
 ![Architecture](https://github.com/MananGaur19/Guiding-Gaze/assets/56295289/0b1577e4-9132-46ad-acb2-4b1d376f26f7)
