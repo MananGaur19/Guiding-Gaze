@@ -1,5 +1,9 @@
 # Guiding-Gaze
 
+## <img width="377" alt="image" src="https://github.com/MananGaur19/Guiding-Gaze/assets/56295289/93ed3d1a-bf1e-44de-b601-6301251400e0">
+
+
+
 ## Concept
 Aiming to empower visually impaired individuals, we propose a real-time navigation system via a mobile application and wired communication between electronic components.
 
